@@ -227,6 +227,7 @@ roscore
  - 2nd tab:
 ```sh
 roslaunch ssl_slam2 ssl_slam2_mapping.launch
+
 ```
 
  - 3rd tab:
@@ -242,8 +243,9 @@ That's all folks. Good luck.
 In the future i will try to improve this guide.
 
 ---------
+***Here is a slam result using slowly an L515 lidar sensor and the ssl-slam2 algorithm:***
 
-![slam_house](https://user-images.githubusercontent.com/70270581/113325472-2b06c580-9321-11eb-904c-ce66fac14d40.png)
+![slam-l515-example](https://user-images.githubusercontent.com/70270581/149330822-54d2c5f7-206f-480b-b3fd-c40294eaf98a.png)
 
 
 > ### for more info, here is the link of the official ssl_slam2 repo: 
